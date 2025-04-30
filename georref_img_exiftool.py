@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov  4 08:21:27 2024
-
-@author: thiagop
-"""
-
 import pandas as pd
 import shutil
 import subprocess
