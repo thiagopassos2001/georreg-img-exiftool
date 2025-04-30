@@ -71,6 +71,3 @@ for index, row in df.iterrows():
     finally:
         count = count + 1
         print(f"{round(count*100/max_count,2)} %")
-    
-
-
